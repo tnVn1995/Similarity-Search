@@ -1,4 +1,4 @@
 # Ignore all folders
-*/*
+**/*
 # Ignore pickle files
 *.pickle
